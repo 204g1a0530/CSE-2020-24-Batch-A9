@@ -1,0 +1,8 @@
+In today's digital age, safeguarding sensitive healthcare data is paramount. 
+Our approach introduces an advanced framework that combines multi-authority access control with anonymous authentication,
+revolutionizing the protection of personal health records. By distributing access control across multiple authorities,
+we enhance the security of data by minimizing vulnerabilities. 
+Simultaneously, the implementation of anonymous authentication guarantees the confidentiality of user identities,
+ensuring a high level of privacy during data transactions. 
+The proposed method uses Attribute-Based Encryption (ABE) cryptographic technique that allows access control based on specific attributes of users and
+enables anonymous authentication while preserving the privacy of sensitive health information.
